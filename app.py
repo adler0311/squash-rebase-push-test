@@ -7,6 +7,7 @@ app = Flask(__name__)
 def hello_world():
     print('a')
     print('b')
+    print('c')
     return 'Hello World!@#%^'
 
 
